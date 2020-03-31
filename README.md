@@ -20,7 +20,7 @@ To run this notebook, follow the instruction bellow:
 
 - `python3 -V` (cheking python version)
 
-- `pip3 install jupyter notebook` (intalling)
+- `pip3 install jupyter notebook` (installing)
 
 - `jupyter notebook` (running)
 
