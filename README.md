@@ -1,8 +1,7 @@
-# Modelling Biotech Processes
-This notebook shows a case related to the implementation of inhibiton models applied for bioethanol production process using cassava as raw material.
-This example is availabe on Book from Schmidell et al (2001), entitled Industrial Biotechnology  (v2, 2001, p. 135, chap 7)
+# Biotech Processes Datasets
+This notebook shows a case related to the analysis of biotech datasets
 
-To run this notebook, follow the instruction bellow:
+To run, follow the instruction bellow:
 
 ## Commands to run:
 
