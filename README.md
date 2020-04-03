@@ -1,5 +1,6 @@
 # Biotech Processes Datasets
-This notebook shows a case related to the analysis of biotech datasets
+
+This repository shows a case related to the analysis of biotech datasets
 
 To run, follow the instruction bellow:
 
